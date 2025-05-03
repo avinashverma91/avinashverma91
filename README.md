@@ -1,10 +1,10 @@
 # Hi there! 👋
 
-I'm Avinash Verma, a Cloud Operations Engineer at HCLTech with 5 years of IT experience.
+I'm Avinash Verma, a DevOps Engineer at HCLTech with 5+ years of IT experience.
 
 ### About Me ℹ️
-- 💼 Currently serving as a Cloud Operations Engineer at HCLTech.
-- 🔧 Specialize in Azure, AWS, Azure DevOps, and Terraform.
+- 💼 Currently serving as a DevOps Engineer at HCLTech.
+- 🔧 Specialize in Azure, AWS, Azure DevOps, Terraform, Docker and Kubernetes.
 - 🌐 Managing Microsoft Azure and AWS environments for optimal performance.
 
 ### Let's Connect! 🌟
